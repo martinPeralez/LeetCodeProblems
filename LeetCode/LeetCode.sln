@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603 _DesignParkingSystem", "1603 _DesignParkingSystem\1603 _DesignParkingSystem.csproj", "{88ED678E-6822-494C-B10E-9FA2E412F748}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748 SumOfUniqueElements", "1748 SumOfUniqueElements\1748 SumOfUniqueElements.csproj", "{C9CD36CB-FAD3-4ACC-878F-9CD02CA71D03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{88ED678E-6822-494C-B10E-9FA2E412F748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88ED678E-6822-494C-B10E-9FA2E412F748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88ED678E-6822-494C-B10E-9FA2E412F748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9CD36CB-FAD3-4ACC-878F-9CD02CA71D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CD36CB-FAD3-4ACC-878F-9CD02CA71D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CD36CB-FAD3-4ACC-878F-9CD02CA71D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CD36CB-FAD3-4ACC-878F-9CD02CA71D03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

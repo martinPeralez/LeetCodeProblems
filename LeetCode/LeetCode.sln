@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1108 Defanging An IP Addres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1431 Kids With the Greatest Number of Candies", "1431 Kids With the Greatest Number of Candies\1431 Kids With the Greatest Number of Candies.csproj", "{79166613-3E0A-4FD7-AED1-955375107EBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1672 Richest Customer Wealth", "1672 Richest Customer Wealth\1672 Richest Customer Wealth.csproj", "{55CC0031-AA34-4C0B-9EE5-C58E5AA19284}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1470 Suffle The Array", "1470 Suffle The Array\1470 Suffle The Array.csproj", "{8047EDCF-9172-44A9-A0C3-6CC2003E12B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{79166613-3E0A-4FD7-AED1-955375107EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79166613-3E0A-4FD7-AED1-955375107EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79166613-3E0A-4FD7-AED1-955375107EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CC0031-AA34-4C0B-9EE5-C58E5AA19284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CC0031-AA34-4C0B-9EE5-C58E5AA19284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CC0031-AA34-4C0B-9EE5-C58E5AA19284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CC0031-AA34-4C0B-9EE5-C58E5AA19284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8047EDCF-9172-44A9-A0C3-6CC2003E12B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8047EDCF-9172-44A9-A0C3-6CC2003E12B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8047EDCF-9172-44A9-A0C3-6CC2003E12B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8047EDCF-9172-44A9-A0C3-6CC2003E12B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
